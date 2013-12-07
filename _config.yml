@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: ytang 的学习生活
+title: yt4ng 的学习生活
 subtitle: 业精于勤，荒于嬉；行成于思，毁于随。
 description:
-author: Yang Tang
-email: ytneil@gmail.com
-language: zh-CN
+author: yt4ng
+email: yt4ng@qq.com
+language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ytneil.tk
+url: http://yt4ng.tk
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
